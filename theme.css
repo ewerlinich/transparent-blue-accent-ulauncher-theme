@@ -37,7 +37,7 @@
  */
 @define-color selected_bg_color @on-black;
 @define-color selected_fg_color @on-blue;
-@define-color input_color @on-violet;
+@define-color input_color @on-white;
 @define-color caret_color darker(@input_color); 
 
 /**
